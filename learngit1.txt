@@ -2,3 +2,7 @@ this is first line from learngit1
 add a new line from learngit2
 add a new line
 add a new line without blank
+add a new line
+add a new line from learngit2
+add a new line ===
+
